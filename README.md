@@ -10,8 +10,10 @@
  - Next.js
  - Firebase
  - Contentful
+ - GraphQL
  - three.js (react-three-fiber)
  - Framer Motion
+ - Back-end (PHP, Golang)
  - and tons more!
 
 ### 📫  How to reach me:
