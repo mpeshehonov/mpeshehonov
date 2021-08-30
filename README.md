@@ -14,6 +14,7 @@
  - three.js (react-three-fiber)
  - Framer Motion
  - Back-end (PHP, Golang)
+ - DevOps (Docker, Git, CI/CD)
  - and tons more!
 
 ### 📫  How to reach me:
