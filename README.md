@@ -1,7 +1,5 @@
 # 🖥 Peshekhonov Maksim 📝
 
-![Profile views ;)](https://gpvc.arturio.dev/mpeshehonov)
-
 🔭 I’m currently working on citilink.ru as a frontend developer. Seasoned hackathon winner (5+🔥 wins 🥳)
 
 🗝 Have experience with:
