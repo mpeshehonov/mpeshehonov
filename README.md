@@ -1,6 +1,6 @@
 # 🖥 Peshekhonov Maksim 📝
 
-🔭 I’m currently working on citilink.ru as a frontend developer. Seasoned hackathon winner (5+🔥 wins 🥳)
+🔭 Frontend developer. Seasoned hackathon winner (5+🔥 wins 🥳)
 
 🗝 Have experience with:
  - React (redux, thunk, redux-toolkit, context, hooks, etc...)
